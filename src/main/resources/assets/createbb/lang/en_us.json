@@ -57,9 +57,15 @@
   "brass_call_bell_tooltip": "§8Ding!",
   "ephedra_tooltip": "§8Buy it from farmers.",
 
-
   "creativetab.createbb.createbb": "Create: Broken Bad",
 
   "item.createbb.packed_flour": "Packed Flour",
-  "item.createbb.popcorners": "Popcorners"
+  "item.createbb.popcorners": "Popcorners",
+
+  "painting.createbb.los_pollos_hermanos_1x1.author": "Humberto Puentes-Segura",
+  "painting.createbb.los_pollos_hermanos_1x1.title": "Los Pollos Hermanos (1x1)",
+  "painting.createbb.los_pollos_hermanos_2x2.author": "Humberto Puentes-Segura",
+  "painting.createbb.los_pollos_hermanos_2x2.title": "Los Pollos Hermanos (2x2)",
+  "painting.createbb.saul.author": "Vince Gilligan",
+  "painting.createbb.saul.title": "Saul"
 }

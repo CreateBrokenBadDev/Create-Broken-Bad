@@ -1,0 +1,13 @@
+{
+    "asset_id": "createbb:saul",
+    "author": {
+        "color": "gray",
+        "text": "Vince Gilligan"
+    },
+    "height": 2,
+    "width": 3,
+    "title": {
+        "color": "yellow",
+        "text": "a"
+    }
+}
